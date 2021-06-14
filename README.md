@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @lucaseufrasio-gaivota
+- 👋 Hi, I’m Lucas William.
 - 👀 I’m interested in NodeJS, Golang.
 - 🌱 I’m currently learning Software Engineering Best Pratices.
