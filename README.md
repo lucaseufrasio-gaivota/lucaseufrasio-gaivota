@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lucaseufrasio-gaivota
+- 👀 I’m interested in NodeJS, Golang.
+- 🌱 I’m currently learning Software Engineering Best Pratices.
